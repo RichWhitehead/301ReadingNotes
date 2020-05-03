@@ -1,4 +1,4 @@
-# Reading 13: Sending Form Data
+# Reading 13: Update/Delete
 
 The form-data can be sent as URL variables (with method="get") or as HTTP post transaction (with method="post").
 
